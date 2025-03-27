@@ -35,6 +35,8 @@ Visualizaciones principales:
 - Stock disponible por producto y ubicación.  
 - Composición del inventario.
 
+![dashboard_inventario_v0_page-0001](https://github.com/user-attachments/assets/1968d02e-dda5-4ea8-a20f-7cf1f5ebef02)
+
 ## 📢 Próximos Pasos  
 🔹 Ampliar el análisis con predicciones de demanda.  
 🔹 Incorporar segmentación de clientes basada en ventas.  
